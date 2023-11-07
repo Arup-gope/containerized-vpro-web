@@ -1,8 +1,7 @@
 # Containerized VProfile Web Application Project
 
 ## Overview
-
-The VProfile Project is a web application developed to showcase my skills in Java, Maven, and Tomcat. It incorporates various technologies such as MySQL, Memcached, and RabbitMQ for data storage and messaging.
+The objective of the "Containerized Vprofile Web App Project," based on code obtained from the Udemy course by Imran Teli, is to create a highly scalable and modular web application using Java, Maven, Tomcat, and Docker. This project aims to empower users to efficiently create, manage, and present their professional and personal profiles while incorporating technologies like MySQL, Memcached, and RabbitMQ for secure and optimized data storage and messaging within containerized environments. By acknowledging the code's origin from Imran Teli's course, we aim to build a user-friendly and technologically advanced platform for profile management, personal branding, and networking while adhering to the course's terms and providing proper attribution.
 
 
 ## Features
