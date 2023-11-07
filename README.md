@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 3. Access the application in  the web browser at [http://localhost:8080](http://localhost:8080)
 
 
-## Docker Images && Docker Compose File:
+## Docker Images & Docker Compose File
 ### Docker Images
 
 We have published the following Docker images for the VProfile Project on Docker Hub:
