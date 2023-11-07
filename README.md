@@ -180,7 +180,7 @@ Fig. 3: User's Data from Memchached.
 
 ## Docker Image Push Report
 
-We have successfully pushed the following Docker images for the VProfile Project to Docker Hub:
+I have successfully pushed the following Docker images for the VProfile Project to Docker Hub:
 
 - **vprofiledb**: The Docker image for the database component of the project.
   - Docker Hub Repository: [arupgope/vprofiledb](https://hub.docker.com/r/arupgope/vprofiledb)
