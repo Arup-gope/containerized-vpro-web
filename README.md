@@ -1,8 +1,9 @@
 # Containerized VProfile Web Application Project
 
 ## Overview
-The objective of the "Containerized Vprofile Web App Project," based on code obtained from the Udemy course by Imran Teli, is to create a highly scalable and modular web application using Java, Maven, Tomcat, and Docker. This project aims to empower users to efficiently create, manage, and present their professional and personal profiles while incorporating technologies like MySQL, Memcached, and RabbitMQ for secure and optimized data storage and messaging within containerized environments. By acknowledging the code's origin from Imran Teli's course, we aim to build a user-friendly and technologically advanced platform for profile management, personal branding, and networking while adhering to the course's terms and providing proper attribution.
-
+<div style="text-align: center;">
+The objective of the "Containerized Vprofile Web App Project," based on code obtained from the Udemy course by Imran Teli, is to create a highly scalable and modular web application using Java, Maven, Tomcat, and Docker. This project aims to empower users to efficiently create, manage, and present their professional and personal profiles while incorporating technologies like MySQL, Memcached, and RabbitMQ for secure and optimized data storage and messaging within containerized environments. By acknowledging the code's origin from Imran Teli's course, I aim to build a user-friendly and technologically advanced platform for profile management, and personal branding.
+</div>
 
 ## Features
 
@@ -14,9 +15,11 @@ The objective of the "Containerized Vprofile Web App Project," based on code obt
 - Utilizes RabbitMQ for asynchronous messaging.
 
 ## Project Architecture
+<div style="text-align: center;">
 The VPro web application project employs Java, Maven, MySQL, Memcached, RabbitMQ, and Tomcat for its architecture. Java forms the core of the application's logic, while Maven streamlines the development process. MySQL handles data storage, and Memcached optimizes data retrieval. RabbitMQ facilitates asynchronous communication, enhancing the application's responsiveness. Tomcat serves as the web server, handling HTTP requests.
 
 To ensure consistent and manageable deployment, the project utilizes Docker. Three Dockerfiles are created for web, app, and DB components, allowing for isolated and efficient containerization. Docker Compose orchestrates these containers for streamlined management. Once the project is successfully deployed, it's pushed to DockerHub, ensuring easy future use and distribution across different environments. This architecture emphasizes performance, scalability, and simplicity in deployment.
+</div>
 - **GitHub Repository**: [https://github.com/Arup-gope/vprofile-project]
   
 ![Architecture](https://github.com/Arup-gope/containerized-vpro-web/assets/64405321/67622a1c-a278-4c55-b413-e5fb1b94bf29)
