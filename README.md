@@ -169,13 +169,14 @@ Fig. 2: Login Page of this website.
 Once I've successfully logged in, I have access to a list of all user IDs. Clicking on a specific User ID provides me with detailed information about that particular user. This information is retrieved from a MYSQL database and cached. When I revisit the website in the future, the information will be fetched from Memcached.
 
 
+![MySql](https://github.com/Arup-gope/containerized-vpro-web/assets/64405321/a5faecde-8701-49bf-9962-f3b824a7c422)
 
-![User_List](https://github.com/Arup-gope/containerized-vpro-web/assets/64405321/d65ab150-1cfb-4256-98fe-9ee7a62f45b3)
+
 Fig. 3: User's Data from MYSQL
 
 
 ![Memcached_Checked](https://github.com/Arup-gope/containerized-vpro-web/assets/64405321/fa63dcaf-f210-4aa2-9e66-0ad7256b35a4)
-Fig. 3: User's Data from Memchached.
+Fig. 4: User's Data from Memchached.
 
 
 ## Docker Image Push Report
