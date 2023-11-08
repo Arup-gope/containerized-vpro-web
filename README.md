@@ -16,9 +16,10 @@ The objective of the "Containerized Vprofile Web App Project," based on code obt
 
 ## Project Architecture
 <div style="text-align: center;">
-The VPro web application project employs Java, Maven, MySQL, Memcached, RabbitMQ, and Tomcat for its architecture. Java forms the core of the application's logic, while Maven streamlines the development process. MySQL handles data storage, and Memcached optimizes data retrieval. RabbitMQ facilitates asynchronous communication, enhancing the application's responsiveness. Tomcat serves as the web server, handling HTTP requests.
 
-To ensure consistent and manageable deployment, the project utilizes Docker. Three Dockerfiles are created for web, app, and DB components, allowing for isolated and efficient containerization. Docker Compose orchestrates these containers for streamlined management. Once the project is successfully deployed, it's pushed to DockerHub, ensuring easy future use and distribution across different environments. This architecture emphasizes performance, scalability, and simplicity in deployment.
+The VPro web application project uses Java for its core logic and Maven for development. It stores data in MySQL and optimizes data retrieval with Memcached. RabbitMQ helps with quick communication, and Tomcat handles HTTP requests.
+
+For easy and consistent deployment, the project uses Docker. Three Dockerfiles are made for web, app, and DB parts, making them easy to manage. Docker Compose organizes these containers efficiently. After deployment, the project is stored on DockerHub for future use and distribution. This setup aims to ensure good performance, scalability, and straightforward deployment..
 </div>
 - **GitHub Repository**: [https://github.com/Arup-gope/vprofile-project]
   
